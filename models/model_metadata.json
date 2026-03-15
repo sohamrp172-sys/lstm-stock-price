@@ -1,0 +1,13 @@
+{
+  "ticker": "AAPL",
+  "lookback_days": 180,
+  "predict_days": 30,
+  "years_of_data": 5,
+  "train_rmse": 0.0711422072763772,
+  "test_rmse": 0.06241723094124836,
+  "train_mape": 0.21666896579006226,
+  "test_mape": 0.07645491898346578,
+  "data_points": 1255,
+  "scaler_min": 116.78206634521484,
+  "scaler_max": 285.9224548339844
+}
